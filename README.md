@@ -58,4 +58,17 @@ To incentivize users, I created a profile section that records user progress and
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation3.png)
 
 ## Final Design
+There was room for improvement in terms of the design and usability. After some user testing, I gathered all the feedback and adjusted the app's layout accordingly.
+
+### Add items with one click
+Users can add items with ease from the Home page. They also have the option of adding items by accessing the Item List page. When adding an item, they can list multiple different items at once along with their quantities. However, the user can also choose to only add one item if preferred. The upside down triangle expads a dropdown menu to change the type of materials they want to add.
+
+### Guide accessibility
+In the Item List page, users can easily access different guides intuitively, and scroll down their recyclables list.
+When adding an item, there is a "?" icon that can be pressed to access a guide of the respective material. 
+
+### Milestones and experience multipliers
+The user can personalize their profile name and picture. In the Profile page the user can add their own personal goal. They can choose the type of material they want to recycle for their goal or simply choose "Any". They can also specify a quantity and a deadline date. The greater the amount of items and the sooner the deadline is, the experience granted will be higher. A global leaderboard will display the user's name, level, and grand total of items recycled.
+
+![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/collage.png)
 
