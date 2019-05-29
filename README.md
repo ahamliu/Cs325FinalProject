@@ -5,14 +5,26 @@
 ## Problem
 In order to understand more about the context, I start my process by asking myself a lot of questions. Brainstorming and answering these questions help me gain a deeper insight on user needs and where to proceed on the next step. Subsequently, understanding user needs allows me to create research questions and business goals. 
 
+### Questions to Consider:
+- What is the process of recycling?
+- What are its personal benefits?
+- Is recycling accessible for everyone?
+- What are motivations for recycling?
+
+### Research Questions:
+- What do you think recycling entails?
+- Do you think recycling has any personal benefits?
+- Is recycling accessible for you?
+- What would be some motivations for you to start recycling?
+
 ## User Research
 
 After conducting five interviews, I took notes for each interview and pulled overlapping and similar information together. 
 
-### Catering to user needs
+### Catering to User Needs
 This helped me fill in questions that I had prepared beforehand addressing user and requirements analysis. For example, “What is the interviewee’s background?” allows me to understand what a non-technical vs technical user might want in their ideal recycling app and cater to their needs.
 
-### Provide an incentive system
+### Provide an Incentive System
 Analyzing the responses to the interview questions and categorizing them, I learned the main user needs and concerns for a recycling app. I found that the most common concern was motivation, users might not revisit the application without some sort of incentive. 
 
 ## Competitor Analysis
@@ -42,17 +54,17 @@ After reviewing the information extracted from the interviews and competitor ana
 
 ## Ideation
 
-### Information at glance
+### Information at Glance
 Structured information to easily see current project on the homepage and existing objects and totals. Added accessible guides for each material category when a user chooses to add an item.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation1.png)
 
-### Quick ways to add objects
+### Quick Ways to Add Items
 I decided on an intuitive addition button to add items to the list. Within the add items page, a user can press on the categories to add an item of its respective type and choose to include a name and quantity.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation2.png)
 
-### Gamified level-up system
+### Gamified Level-Up System
 To incentivize users, I created a profile section that records user progress and lists various goals and milestones. Each of these has a circular progress bar or checkmark depicting progress and experience granted after task completion. Levels will be successively harder to increment and there will be leaderboards to add friendly competition and motivation for revisit.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation3.png)
@@ -60,14 +72,14 @@ To incentivize users, I created a profile section that records user progress and
 ## Final Design
 There was room for improvement in terms of the design and usability. After some user testing, I gathered all the feedback and adjusted the app's layout accordingly.
 
-### Add items with one click
+### Add Items with 1-Click
 Users can add items with ease from the Home page. They also have the option of adding items by accessing the Item List page. When adding an item, they can list multiple different items at once along with their quantities. However, the user can also choose to only add one item if preferred. The upside down triangle expads a dropdown menu to change the type of materials they want to add.
 
-### Guide accessibility
+### Guide Accessibility
 In the Item List page, users can easily access different guides intuitively, and scroll down their recyclables list.
 When adding an item, there is a "?" icon that can be pressed to access a guide of the respective material. 
 
-### Milestones and experience multipliers
+### Milestones and Experience Multipliers
 The user can personalize their profile name and picture. In the Profile page the user can add their own personal goal. They can choose the type of material they want to recycle for their goal or simply choose "Any". They can also specify a quantity and a deadline date. The greater the amount of items and the sooner the deadline is, the experience granted will be higher. A global leaderboard will display the user's name, level, and grand total of items recycled.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/collage.png)
