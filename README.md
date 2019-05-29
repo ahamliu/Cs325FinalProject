@@ -85,7 +85,5 @@ The user can personalize their profile name and picture. In the Profile page the
 ### Future Extensions
 #### Leaderboard: 
 - A global leaderboard will display the user's name, level, and grand total of items recycled.
-- More to come
-
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/collage.png)
