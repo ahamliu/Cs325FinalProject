@@ -88,5 +88,3 @@ The user can personalize their profile name and picture. In the Profile page the
 A global leaderboard will display the user's name, level, and grand total of items recycled.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/collage.png)
-
-
