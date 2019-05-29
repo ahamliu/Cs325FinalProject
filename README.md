@@ -45,17 +45,17 @@ After reviewing the information extracted from the interviews and competitor ana
 ### Information at glance
 Structured information to easily see current project on the homepage and existing objects and totals. Added accessible guides for each material category when a user chooses to add an item.
 
-![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation-1.png)
+![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation1.png)
 
 ### Quick ways to add objects
 I decided on an intuitive addition button to add items to the list. Within the add items page, a user can press on the categories to add an item of its respective type and choose to include a name and quantity.
 
-![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation-2.png)
+![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation2.png)
 
 ### Gamified level-up system
 To incentivize users, I created a profile section that records user progress and lists various goals and milestones. Each of these has a circular progress bar or checkmark depicting progress and experience granted after task completion. Levels will be successively harder to increment and there will be leaderboards to add friendly competition and motivation for revisit.
 
-![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation-3.png)
+![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/ideation3.png)
 
 ## Final Design
 
