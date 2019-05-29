@@ -80,7 +80,14 @@ In the Item List page, users can easily access different guides intuitively, and
 When adding an item, there is a "?" icon that can be pressed to access a guide of the respective material. 
 
 ### Milestones and Experience Multipliers
-The user can personalize their profile name and picture. In the Profile page the user can add their own personal goal. They can choose the type of material they want to recycle for their goal or simply choose "Any". They can also specify a quantity and a deadline date. The greater the amount of items and the sooner the deadline is, the experience granted will be higher. A global leaderboard will display the user's name, level, and grand total of items recycled.
+The user can personalize their profile name and picture. In the Profile page the user can add their own personal goal. They can choose the type of material they want to recycle for their goal or simply choose "Any". They can also specify a quantity and a deadline date. The greater the amount of items and the sooner the deadline is, the experience granted will be higher. 
+
+---
+## Future Extensions
+
+### Leaderboard
+A global leaderboard will display the user's name, level, and grand total of items recycled.
 
 ![](https://github.com/ahamliu/ahamliu.github.io/blob/master/img/mobile-app/collage.png)
+
 
